@@ -1,2 +1,6 @@
 jakas tresc
 kolejny zapis w nowej odnodze
+
+
+
+to powinno byc teraz w repo 
